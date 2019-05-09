@@ -1,0 +1,70 @@
+body{
+	font-family: 'lato', sans-serif;
+	background-image:url(kabehe2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position:  center center;
+	
+	background-color: blue;
+	font-family:'lato', sans-serif;
+	
+}
+#quiz{
+	margin-left: 5px;
+	background: #d2def2;
+	padding: 5px 10px 5px 10px;
+	width: 480px;
+	height: 520px;
+	border-radius: 30px;
+	
+	float: left;
+}
+
+.main{
+	
+	background-image:url(gameback.jpg);
+	background-repeat: no-repeat;
+	background-size:  250%;
+	background-position:  center center;
+	width:82%;
+	height:150%;
+	margin:auto;
+    border: 3px  solid green;
+	background-color: red;
+	padding: 5px 25px 25px 25px;
+	border-radius: 20px;
+	box-shadow: 10px 15px 5px  yellow;
+}
+.main h1{
+	padding: 5px 25px 25px 25px;
+	color:black;
+	font-family: verdana;
+    font-size: 50px;
+	text-align: center;
+	text-shadow: 2px 2px #ff0000;
+}
+#after_submit{
+	visibility: hidden;
+	color: blue,
+	padding: left;
+}
+a:link {
+    background-color: yellow;
+}
+a:link {
+    text-decoration: none;
+}
+
+
+
+after_submit:hover{
+	color:blue;
+}
+messages:hover{
+	color: yellow;
+}
+footer{
+	background-color:red;
+	text-align:center;
+}	
+	
